@@ -29,9 +29,9 @@ graded in public, ours included. Misses are printed at the same size as hits.
 |---|---|
 | Website | [nostradamusintellect.com](https://nostradamusintellect.com) |
 | The record as JSON (free, no key) | [/engine/record.json](https://nostradamusintellect.com/engine/record.json) · one card: `/engine/cards/<id>.json` |
-| MCP server (Claude, Cursor, any client) | `npx -y github:NostradamusIntellect/nostradamus-intellect-mcp mcp` — [setup](https://github.com/NostradamusIntellect/nostradamus-intellect-mcp#connect-it-to-an-ai-client-stdio) |
-| CLI | `npx -y github:NostradamusIntellect/nostradamus-intellect-mcp summary` |
-| Verify every seal yourself | `npx -y github:NostradamusIntellect/nostradamus-intellect-mcp verify all` |
+| MCP server (Claude, Cursor, any client) | `npx -y nostradamus-intellect mcp` — [setup](https://github.com/NostradamusIntellect/nostradamus-intellect-mcp#connect-it-to-an-ai-client-stdio) |
+| CLI | `npx -y nostradamus-intellect summary` — [on npm](https://www.npmjs.com/package/nostradamus-intellect) |
+| Verify every seal yourself | `npx -y nostradamus-intellect verify all` |
 | For language models | [llms.txt](https://nostradamusintellect.com/llms.txt) · [llms-full.txt](https://nostradamusintellect.com/llms-full.txt) |
 | What can be proven before the first grade | [The Proving Ground](https://nostradamusintellect.com/proving-ground) |
 
