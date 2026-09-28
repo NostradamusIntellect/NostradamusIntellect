@@ -27,7 +27,7 @@ graded in public, ours included. Misses are printed at the same size as hits.
 
 | | |
 |---|---|
-| Website | [nostradamusintellect.com](https://nostradamusintellect.com) · [en français](https://nostradamusintellect.com/fr) |
+| Website | [nostradamusintellect.com](https://nostradamusintellect.com) |
 | The record as JSON (free, no key) | [/engine/record.json](https://nostradamusintellect.com/engine/record.json) · one card: `/engine/cards/<id>.json` |
 | MCP server (Claude, Cursor, any client) | `npx -y github:NostradamusIntellect/nostradamus-intellect-mcp mcp` — [setup](https://github.com/NostradamusIntellect/nostradamus-intellect-mcp#connect-it-to-an-ai-client-stdio) |
 | CLI | `npx -y github:NostradamusIntellect/nostradamus-intellect-mcp summary` |
@@ -77,7 +77,7 @@ Nothing can be bought: partnerships, sponsorship, donations and investment never
 criterion.
 
 [nostradamusintellect.com](https://nostradamusintellect.com) · [X @Nostradamusmind](https://x.com/Nostradamusmind) ·
-[nostradamusintellect@proton.me](mailto:nostradamusintellect@proton.me) · [En français](https://nostradamusintellect.com/fr)
+[nostradamusintellect@proton.me](mailto:nostradamusintellect@proton.me)
 
 <sub>Not financial, medical, legal or safety advice. Forward-looking content is probabilistic simulation. This is not a
 reading of Michel de Nostredame and not a horoscope.</sub>
